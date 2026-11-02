@@ -220,11 +220,18 @@ I work across several model providers and assistants rather than a single stack:
 ## Languages
 
 <p align="center">
-<a href="https://github.com/mrfaizan-dev?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfaizan-dev&layout=compact&langs_count=6&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=E5E7EB" alt="Top languages across mrfaizan-dev public repositories" width="55%">
-</a>
+  <a href="https://github.com/mrfaizan-dev?tab=repositories">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrfaizan-dev&layout=compact&langs_count=6&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=E5E7EB"
+      alt="Top Languages - Mr Faizan"
+      width="55%"
+    />
+  </a>
 </p>
 
+<p align="center">
+  <sub>Language statistics from my public GitHub repositories.</sub>
+</p>
 <p align="center"><sub>Language mix across my public repositories. If the card doesn't load, <a href="https://github.com/mrfaizan-dev?tab=repositories">browse the repositories directly</a>.</sub></p>
 
 ## Contact and Collaboration
