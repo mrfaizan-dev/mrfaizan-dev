@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.svg" alt="Mr Faizan, Python Backend and Applied AI Developer. Agentic AI, LLM applications, RAG systems, web automation and data extraction." width="100%">
+<img src="https://raw.githubusercontent.com/mrfaizan-dev/mrfaizan-dev/main/profile-banner.svg" alt="Mr Faizan, Python Backend and Applied AI Developer. Agentic AI, LLM applications, RAG systems, web automation and data extraction." width="100%">
 
 **Python Backend & Applied AI Developer**
 <br>
@@ -190,7 +190,7 @@ Upload a document, ask questions in a chat interface, and get answers grounded i
 ## AI and LLM Ecosystem
 
 <p align="center">
-<img src="./ai-architecture.svg" alt="Five-layer map of my AI toolset: data in, retrieval, agents and evaluation, models and providers, and serving infrastructure." width="100%">
+<img src="https://raw.githubusercontent.com/mrfaizan-dev/mrfaizan-dev/main/ai-architecture.svg" alt="Five-layer map of my AI toolset: data in, retrieval, agents and evaluation, models and providers, and serving infrastructure." width="100%">
 </p>
 
 I work across several model providers and assistants rather than a single stack: gateways and inference providers for API access, agent and RAG frameworks for orchestration, and AI assistants I build with every day.
@@ -242,7 +242,7 @@ I'm always glad to talk about AI backends, RAG systems, agentic workflows and sc
 
 <div align="center">
 
-<img src="assets/profile-footer.svg" alt="Reliable pipelines. Grounded answers. Clean data." width="100%">
+<img src="https://raw.githubusercontent.com/mrfaizan-dev/mrfaizan-dev/main/profile-footer.svg" alt="Reliable pipelines. Grounded answers. Clean data." width="100%">
 
 <sub>Thanks for stopping by.</sub>
 
