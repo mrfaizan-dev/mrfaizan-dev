@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170" role="img" aria-labelledby="t d">
+<title id="t">Mr Faizan footer</title>
+<desc id="d">Dark navy footer with a flowing cyan, blue and violet wave and the line: Reliable pipelines. Grounded answers. Clean data.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#15122E"/><stop offset=".5" stop-color="#0E1530"/><stop offset="1" stop-color="#0B1020"/></linearGradient>
+<linearGradient id="wv" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".25" stop-color="#22D3EE"/><stop offset=".6" stop-color="#3B82F6"/><stop offset=".85" stop-color="#8B5CF6"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient>
+<radialGradient id="gl" cx="500" cy="150" r="420" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#3B82F6" stop-opacity=".2"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#3B82F6" stroke-opacity=".06"/></pattern>
+<clipPath id="frame"><rect width="1000" height="170" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1000" height="170" fill="url(#bg)"/>
+<rect width="1000" height="170" fill="url(#grid)"/>
+<rect width="1000" height="170" fill="url(#gl)"/>
+<path d="M0,128 Q62.5,106 125,128 T250,128 T375,128 T500,128 T625,128 T750,128 T875,128 T1000,128" fill="none" stroke="url(#wv)" stroke-width="2" stroke-opacity=".7"/>
+<path d="M0,128 Q62.5,106 125,128 T250,128 T375,128 T500,128 T625,128 T750,128 T875,128 T1000,128" fill="none" stroke="#A5F3FC" stroke-width="2" stroke-opacity=".55" stroke-dasharray="3 22" stroke-linecap="round">
+<animate attributeName="stroke-dashoffset" from="0" to="-250" dur="10s" repeatCount="indefinite"/></path>
+<circle cx="125" cy="128" r="9" fill="#22D3EE" fill-opacity=".12"/><circle cx="125" cy="128" r="4.5" fill="#22D3EE"><animate attributeName="opacity" values="1;.4;1" dur="4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="375" cy="128" r="9" fill="#3B82F6" fill-opacity=".12"/><circle cx="375" cy="128" r="4.5" fill="#3B82F6"><animate attributeName="opacity" values="1;.4;1" dur="5s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="625" cy="128" r="9" fill="#8B5CF6" fill-opacity=".12"/><circle cx="625" cy="128" r="4.5" fill="#8B5CF6"><animate attributeName="opacity" values="1;.4;1" dur="6s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="875" cy="128" r="9" fill="#22D3EE" fill-opacity=".12"/><circle cx="875" cy="128" r="4.5" fill="#22D3EE"><animate attributeName="opacity" values="1;.4;1" dur="7s" begin="2.7s" repeatCount="indefinite"/></circle>
+<text x="500" y="56" text-anchor="middle" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="700" fill="#E5E7EB" textLength="540" lengthAdjust="spacingAndGlyphs">Reliable pipelines. Grounded answers. Clean data.</text>
+<text x="500" y="86" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" letter-spacing=".8" fill="#94A3B8" textLength="470" lengthAdjust="spacingAndGlyphs">mrfaizan-dev · Python Backend &amp; Applied AI Developer</text>
+</g>
+<rect x=".5" y=".5" width="999" height="169" rx="17.5" fill="none" stroke="#1E293B"/>
+</svg>
