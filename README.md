@@ -45,10 +45,10 @@ My primary engineering focus is the Python backend and AI pipeline. I also build
 <table>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/mrfaizan-dev/Autonomous-RFP-Pipeline"><img src="./project-1.svg" alt="Autonomous RFP Pipeline" width="100%"/></a></td>
-<td width="50%" align="center"><a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="./project-2.svg" alt="Enterprise RAG AI" width="100%"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/mrfaizan-dev/Enterprise-RAG-AI"><img src="./project-2.svg" alt="Enterprise RAG AI" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="./project-3.svg" alt="CogniPulse" width="100%"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/mrfaizan-dev/CogniPulse-AI-Market-Intelligence"><img src="./project-3.svg" alt="CogniPulse" width="100%"/></a></td>
 <td width="50%" align="center"><a href="https://github.com/mrfaizan-dev/Natural-Scraping-AI"><img src="./project-4.svg" alt="Natural Scraping AI" width="100%"/></a></td>
 </tr>
 </table>
