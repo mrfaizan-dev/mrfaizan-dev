@@ -69,7 +69,7 @@ Turns a public RFP or project URL into a tailored proposal draft. The workflow e
 
 <strong>Stack:</strong> Python · FastAPI · LangGraph · LlamaIndex · ChromaDB · Celery · Redis · Next.js
 
-<a href="https://github.com/mrfaizan-dev?tab=repositories">Repository</a> · <a href="#">Live application (AegisIQ)</a>
+<a href="https://github.com/mrfaizan-dev/Autonomous-RFP-Pipeline">Repository</a> · <a href="#">Live application (AegisIQ)</a>
 
 </td>
 <td width="50%" valign="top">
