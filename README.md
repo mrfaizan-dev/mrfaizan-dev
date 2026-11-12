@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Mr Faizan — Python Backend and Applied AI Developer" width="100%"/>
+<img src="./header.svg" alt="Mr Faizan — Python Backend and Applied AI Developer" width="100%"/>
 
 <br/>
 
-<a href="mailto:pakmrfaizan@gmail.com"><img src="assets/btn-email.svg" alt="Email Me" height="64"/></a>
-<a href="https://github.com/mrfaizan-dev"><img src="assets/btn-github.svg" alt="GitHub" height="64"/></a>
-<a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="assets/btn-repos.svg" alt="All Repositories" height="64"/></a>
+<a href="mailto:pakmrfaizan@gmail.com"><img src="./btn-email.svg" alt="Email Me" height="64"/></a>
+<a href="https://github.com/mrfaizan-dev"><img src="./btn-github.svg" alt="GitHub" height="64"/></a>
+<a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="./btn-repos.svg" alt="All Repositories" height="64"/></a>
 
 <br/><br/>
 
 I build practical AI-powered systems that connect **LLMs, agent workflows, retrieval pipelines, browser automation, and Python backend services**.
 My focus is turning unstructured web and document data into useful, validated outputs — not just standalone prompts or chat demos.
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="./divider.svg" alt="" width="100%"/>
 
 </div>
 
@@ -38,18 +38,18 @@ My primary engineering focus is the Python backend and AI pipeline. I also build
 | **Python backend systems** | FastAPI services, Pydantic validation, asyncio, Celery workers, Redis queues, and Docker-based deployment. |
 | **Data products** | Cleaning and validating extracted information, then delivering it through APIs, dashboards, Excel, and CSV. |
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="./divider.svg" alt="" width="100%"/>
 
 ## Selected Projects
 
 <table>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="assets/project-1.svg" alt="Autonomous RFP Pipeline" width="100%"/></a></td>
-<td width="50%" align="center"><a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="assets/project-2.svg" alt="Enterprise RAG AI" width="100%"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="./project-1.svg" alt="Autonomous RFP Pipeline" width="100%"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="./project-2.svg" alt="Enterprise RAG AI" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="assets/project-3.svg" alt="CogniPulse" width="100%"/></a></td>
-<td width="50%" align="center"><a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="assets/project-4.svg" alt="Natural Scraping AI" width="100%"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="./project-3.svg" alt="CogniPulse" width="100%"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="./project-4.svg" alt="Natural Scraping AI" width="100%"/></a></td>
 </tr>
 </table>
 
@@ -79,11 +79,11 @@ Processes e-commerce and real-estate URLs through browser automation, fallback r
 
 </details>
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+<img src="./divider.svg" alt="" width="100%"/>
 
-<img src="assets/workflow.svg" alt="Collect, Retrieve, Orchestrate, Validate, Deliver" width="100%"/>
+<img src="./workflow.svg" alt="Collect, Retrieve, Orchestrate, Validate, Deliver" width="100%"/>
 
-<img src="assets/skills.svg" alt="Technical toolkit: Python, FastAPI, LangGraph, RAG, Playwright and more" width="100%"/>
+<img src="./skills.svg" alt="Technical toolkit: Python, FastAPI, LangGraph, RAG, Playwright and more" width="100%"/>
 
 ## Engineering Principles
 
@@ -99,10 +99,10 @@ I'm interested in connecting with teams working on Python backend engineering, A
 
 <div align="center">
 
-<a href="mailto:pakmrfaizan@gmail.com"><img src="assets/btn-email.svg" alt="Email Me" height="64"/></a>
-<a href="https://github.com/mrfaizan-dev"><img src="assets/btn-github.svg" alt="GitHub" height="64"/></a>
-<a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="assets/btn-repos.svg" alt="All Repositories" height="64"/></a>
+<a href="mailto:pakmrfaizan@gmail.com"><img src="./btn-email.svg" alt="Email Me" height="64"/></a>
+<a href="https://github.com/mrfaizan-dev"><img src="./btn-github.svg" alt="GitHub" height="64"/></a>
+<a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="./btn-repos.svg" alt="All Repositories" height="64"/></a>
 
-<img src="assets/footer.svg" alt="Reliable pipelines. Grounded answers. Clean data." width="100%"/>
+<img src="./footer.svg" alt="Reliable pipelines. Grounded answers. Clean data." width="100%"/>
 
 </div>
