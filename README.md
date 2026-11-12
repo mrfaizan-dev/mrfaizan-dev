@@ -40,6 +40,7 @@ My primary engineering focus is the Python backend and AI pipeline. I also build
 
 <img src="./divider.svg" alt="" width="100%"/>
 
+
 ## Selected Projects
 
 <table>
@@ -53,31 +54,71 @@ My primary engineering focus is the Python backend and AI pipeline. I also build
 </tr>
 </table>
 
-<details>
-<summary><b>Full project details</b></summary>
+<br/>
 
-### 01 · Autonomous RFP Pipeline — *Agentic proposal automation with evidence and human review*
+<table border="1" cellpadding="14" cellspacing="0" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>01 · Autonomous RFP Pipeline</h3>
+<p><em>Agentic proposal automation with evidence and human review</em></p>
+
 Turns a public RFP or project URL into a tailored proposal draft. The workflow extracts requirements, retrieves relevant portfolio evidence, drafts the response, sends it through an independent AI critique, and pauses for human approval.
-**Highlights:** LangGraph orchestration · Portfolio RAG · Analyst / Writer / Critic agents · Revision loop · Human approval · Checkpointed workflow
-**Stack:** Python · FastAPI · LangGraph · LlamaIndex · ChromaDB · Celery · Redis · Next.js
-[Repository](https://github.com/mrfaizan-dev?tab=repositories) · [Live application (AegisIQ)](#)
 
-### 02 · Enterprise RAG AI — *Hybrid document retrieval and cited question answering*
+<strong>Highlights:</strong> LangGraph orchestration · Portfolio RAG · Analyst / Writer / Critic agents · Revision loop · Human approval · Checkpointed workflow
+
+<strong>Stack:</strong> Python · FastAPI · LangGraph · LlamaIndex · ChromaDB · Celery · Redis · Next.js
+
+<a href="https://github.com/mrfaizan-dev?tab=repositories">Repository</a> · <a href="#">Live application (AegisIQ)</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>02 · Enterprise RAG AI</h3>
+<p><em>Hybrid document retrieval and cited question answering</em></p>
+
 Turns PDF, TXT, and CSV files into searchable knowledge. Semantic retrieval and BM25 keyword search are combined with Reciprocal Rank Fusion, then Cohere reranking selects context for grounded LLM answers.
-**Highlights:** Document ingestion · Gemini embeddings · ChromaDB · Hybrid retrieval · RRF · Cohere reranking · Source citations · Optional Celery queue
-**Stack:** Python · FastAPI · LlamaIndex · ChromaDB · Gemini · Groq · Cohere · Celery · Redis
 
-### 03 · CogniPulse — *Autonomous web research and market intelligence*
+<strong>Highlights:</strong> Document ingestion · Gemini embeddings · ChromaDB · Hybrid retrieval · RRF · Cohere reranking · Source citations · Optional Celery queue
+
+<strong>Stack:</strong> Python · FastAPI · LlamaIndex · ChromaDB · Gemini · Groq · Cohere · Celery · Redis
+
+<a href="https://github.com/mrfaizan-dev/Enterprise-RAG-AI">Repository</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>03 · CogniPulse</h3>
+<p><em>Autonomous web research and market intelligence</em></p>
+
 Converts a natural-language research question into a structured Markdown report. Tavily discovers relevant public URLs; a layered browser engine retrieves pages; LLM extraction is validated against Pydantic schemas.
-**Highlights:** LangGraph Searcher / Scraper / Finalizer · Tavily search · Multi-engine retrieval · Structured extraction · Background research jobs
-**Stack:** Python · FastAPI · LangGraph · Tavily · Playwright · SeleniumBase · Nodriver · Celery · Redis · Next.js
 
-### 04 · Natural Scraping AI — *Asynchronous multi-engine web scraping and data extraction*
+<strong>Highlights:</strong> LangGraph Searcher / Scraper / Finalizer · Tavily search · Multi-engine retrieval · Structured extraction · Background research jobs
+
+<strong>Stack:</strong> Python · FastAPI · LangGraph · Tavily · Playwright · SeleniumBase · Nodriver · Celery · Redis · Next.js
+
+<a href="https://github.com/mrfaizan-dev/CogniPulse-AI-Market-Intelligence">Repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>04 · Natural Scraping AI</h3>
+<p><em>Asynchronous multi-engine web scraping and data extraction</em></p>
+
 Processes e-commerce and real-estate URLs through browser automation, fallback retrieval, site-specific parsers, structured validation, and data cleaning. Results can be exported as formatted Excel and CSV files, with optional PostgreSQL storage.
-**Highlights:** Three-tier retrieval fallback · 12 listed site-specific parsers · Pydantic models · Pandas processing · Celery task tracking · Downloadable reports
-**Stack:** Python · FastAPI · Playwright · SeleniumBase · Nodriver · BeautifulSoup4 · Pandas · Celery · Redis · PostgreSQL · Docker
 
-</details>
+<strong>Highlights:</strong> Three-tier retrieval fallback · 12 listed site-specific parsers · Pydantic models · Pandas processing · Celery task tracking · Downloadable reports
+
+<strong>Stack:</strong> Python · FastAPI · Playwright · SeleniumBase · Nodriver · BeautifulSoup4 · Pandas · Celery · Redis · PostgreSQL · Docker
+
+<a href="https://github.com/mrfaizan-dev/Natural-Scraping-AI">Repository</a>
+
+</td>
+</tr>
+</table>
+
 
 <img src="./divider.svg" alt="" width="100%"/>
 
