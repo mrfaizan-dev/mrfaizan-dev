@@ -32,7 +32,7 @@ My primary engineering focus is the Python backend and AI pipeline. I also build
 
 | Focus | What it means in practice |
 |:--|:--|
-| **Agentic AI applications** | LangGraph workflows, tool use, multi-stage reasoning, independent review, and human approval checkpoints. |
+| **Agentic AI applications** | LangGraph workflows, tool use, multi-stage reasoning, independent review, and human approval checkpoints, MCP. |
 | **RAG and knowledge systems** | Document ingestion, embeddings, vector retrieval, BM25, rank fusion, reranking, and source-grounded answers. |
 | **Intelligent web automation** | Playwright/Selenium-based browser workflows, retrieval fallbacks, site-specific parsers, and structured extraction. |
 | **Python backend systems** | FastAPI services, Pydantic validation, asyncio, Celery workers, Redis queues, and Docker-based deployment. |
@@ -44,12 +44,12 @@ My primary engineering focus is the Python backend and AI pipeline. I also build
 
 <table>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="./project-1.svg" alt="Autonomous RFP Pipeline" width="100%"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/mrfaizan-dev/Autonomous-RFP-Pipeline"><img src="./project-1.svg" alt="Autonomous RFP Pipeline" width="100%"/></a></td>
 <td width="50%" align="center"><a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="./project-2.svg" alt="Enterprise RAG AI" width="100%"/></a></td>
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="./project-3.svg" alt="CogniPulse" width="100%"/></a></td>
-<td width="50%" align="center"><a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="./project-4.svg" alt="Natural Scraping AI" width="100%"/></a></td>
+<td width="50%" align="center"><a href="https://github.com/mrfaizan-dev/Natural-Scraping-AI"><img src="./project-4.svg" alt="Natural Scraping AI" width="100%"/></a></td>
 </tr>
 </table>
 
