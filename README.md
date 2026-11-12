@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero-banner.gif" alt="Mr Faizan — Python Backend and Applied AI Developer" width="100%" />
+  <img src="./hero-banner.gif" alt="Mr Faizan — Python Backend and Applied AI Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ My primary engineering focus is the **Python backend and AI pipeline**. I also b
 ## Selected Projects
 
 <p align="center">
-  <img src="assets/portfolio-map.svg" alt="Overview of four applied AI and Python engineering projects" width="100%" />
+  <img src="./portfolio-map.svg" alt="Overview of four applied AI and Python engineering projects" width="100%" />
 </p>
 
 <table>
@@ -95,9 +95,9 @@ My primary engineering focus is the **Python backend and AI pipeline**. I also b
 A recurring pattern across my projects is to move from raw inputs to useful, reviewable outputs through retrieval, orchestration, and validation. The exact pipeline varies by application.
 
 <p align="center">
-  <img src="assets/workflow-loop.gif" alt="Animated five-stage applied AI engineering workflow: collect, retrieve, orchestrate, validate, deliver" width="100%" />
+  <img src="./workflow-loop.gif" alt="Animated five-stage applied AI engineering workflow: collect, retrieve, orchestrate, validate, deliver" width="100%" />
   <br />
-  <sub><a href="assets/workflow-map.svg">View the static workflow diagram</a></sub>
+  <sub><a href="./workflow-map.svg">View the static workflow diagram</a></sub>
 </p>
 
 ## Technical Toolkit
@@ -147,5 +147,5 @@ I'm interested in connecting with teams working on **Python backend engineering,
 - **GitHub:** [github.com/mrfaizan-dev](https://github.com/mrfaizan-dev)
 
 <p align="center">
-  <img src="assets/footer-signature.svg" alt="Reliable pipelines. Grounded answers. Clean data. — Mr Faizan" width="100%" />
+  <img src="./footer-signature.svg" alt="Reliable pipelines. Grounded answers. Clean data. — Mr Faizan" width="100%" />
 </p>
