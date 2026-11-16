@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="68" viewBox="0 0 300 68" role="img" aria-labelledby="title desc">
+  <title id="title">Visit my portfolio</title>
+  <desc id="desc">A dark navy premium portfolio button with a violet to cyan neon outline.</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#A66BFF"/><stop offset=".48" stop-color="#647BFF"/><stop offset="1" stop-color="#22E0E9"/></linearGradient>
+    <linearGradient id="icon" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C16EFF"/><stop offset="1" stop-color="#647BFF"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".10"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="2.2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="clip"><rect x="3" y="3" width="294" height="62" rx="31"/></clipPath>
+  </defs>
+  <rect x="2" y="2" width="296" height="64" rx="32" fill="#0B1222" stroke="url(#border)" stroke-width="2" filter="url(#glow)"/>
+  <g clip-path="url(#clip)">
+    <path d="M210 3h87v62h-119z" fill="#1A2743" opacity=".72"/>
+    <path d="M3 4h185l-30 60H3z" fill="url(#shine)" opacity=".32"/>
+  </g>
+  <circle cx="39" cy="34" r="23" fill="#211A3C" stroke="#B477FF" stroke-opacity=".8"/>
+  <circle cx="39" cy="34" r="19" fill="url(#icon)"/>
+  <circle cx="39" cy="34" r="10.3" fill="none" stroke="#091326" stroke-width="1.8"/>
+  <path d="M28.8 34h20.4M39 23.7c3 3.1 4.5 6.5 4.5 10.3S42 41.2 39 44.3M39 23.7c-3 3.1-4.5 6.5-4.5 10.3S36 41.2 39 44.3" fill="none" stroke="#091326" stroke-width="1.55" stroke-linecap="round"/>
+  <text x="76" y="30" fill="#F4F8FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="750" letter-spacing=".1">Portfolio</text>
+  <text x="76" y="47" fill="#A9B8D1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9.7" font-weight="500" letter-spacing=".25">mrfaizan-dev.com</text>
+  <path d="M267 27l6 7-6 7" fill="none" stroke="#B987FF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity=".95"/>
+  <circle cx="286" cy="34" r="2" fill="#40DDEB"/>
+</svg>
