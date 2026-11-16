@@ -18,7 +18,21 @@ Pakistan · Available for International Collaboration
 
 <br/>
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-faizan-746146333/) · [Portfolio](https://mrfaizan-dev.com/) · [WhatsApp](https://wa.me/923084996044)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-faizan-746146333/">
+  <img src="./btn-linkedin.svg" alt="LinkedIn" height="64"/>
+</a>
+
+<a href="https://mrfaizan-dev.com/">
+  <img src="./btn-portfolio.svg" alt="Portfolio" height="64"/>
+</a>
+
+<a href="https://wa.me/923084996044">
+  <img src="./btn-whatsapp.svg" alt="WhatsApp" height="64"/>
+</a>
+
+</div>
 
 <img src="./divider.svg" alt="" width="100%"/>
 
@@ -290,7 +304,21 @@ I enjoy building systems that combine reliable backend engineering with practica
 
 **Connect with me**
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-faizan-746146333/) · [Portfolio](https://mrfaizan-dev.com/) · [WhatsApp](https://wa.me/923084996044)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-faizan-746146333/">
+  <img src="./btn-linkedin.svg" alt="LinkedIn" height="64"/>
+</a>
+
+<a href="https://mrfaizan-dev.com/">
+  <img src="./btn-portfolio.svg" alt="Portfolio" height="64"/>
+</a>
+
+<a href="https://wa.me/923084996044">
+  <img src="./btn-whatsapp.svg" alt="WhatsApp" height="64"/>
+</a>
+
+</div>
 
 **Email:** [pakmrfaizan@gmail.com](mailto:pakmrfaizan@gmail.com)
 
