@@ -314,15 +314,15 @@ I enjoy building systems that combine reliable backend engineering with practica
   <img src="./btn-portfolio.svg" alt="Portfolio" height="64"/>
 </a>
 
+<a href="mailto:pakmrfaizan@gmail.com"><img src="./btn-email.svg" alt="Email Me" height="64"/></a>
+
 <a href="https://wa.me/923084996044">
   <img src="./btn-whatsapp.svg" alt="WhatsApp" height="64"/>
 </a>
 
 </div>
 
-**Email:** [pakmrfaizan@gmail.com](mailto:pakmrfaizan@gmail.com)
 
-**WhatsApp:** [+92 308 4996044](https://wa.me/923084996044)
 
 <br/><br/>
 
