@@ -206,7 +206,7 @@ Python · FastAPI · LangGraph · Tavily · Playwright · SeleniumBase · Nodriv
 
 **Project Links**
 
-[Repository](https://github.com/mrfaizan-dev/CogniPulse-AI-Market-Intelligence)
+[Repository](https://github.com/mrfaizan-dev/CogniPulse-AI-Market-Intelligence) · [▶ YouTube Demo](https://youtu.be/Ay_W1xA-wkI)
 
 <!-- ADD COGNIPULSE YOUTUBE DEMO URL HERE WHEN AVAILABLE.
 [▶ YouTube Demo](YOUR_COGNIPULSE_VIDEO_URL)
