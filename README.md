@@ -8,16 +8,17 @@
 <a href="https://github.com/mrfaizan-dev"><img src="./btn-github.svg" alt="GitHub" height="64"/></a>
 <a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="./btn-repos.svg" alt="All Repositories" height="64"/></a>
 
-<!-- ADD LATER: LinkedIn and Portfolio SVG buttons after creating their SVG files.
-<a href="YOUR_LINKEDIN_URL"><img src="./btn-linkedin.svg" alt="LinkedIn" height="64"/></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="./btn-portfolio.svg" alt="Portfolio" height="64"/></a>
--->
-
 <br/><br/>
 
-**Open to Junior / Associate Python Backend & Applied AI Opportunities**
+**Python Backend & Applied AI Developer**
 
-Pakistan · Remote · Contract · Freelance
+Open to Junior / Associate Roles · Remote Opportunities · Freelance Projects
+
+Pakistan · Available for International Collaboration
+
+<br/>
+
+[LinkedIn](https://www.linkedin.com/in/muhammad-faizan-746146333/) · [Portfolio](https://mrfaizan-dev.com/) · [WhatsApp](https://wa.me/923084996044)
 
 <img src="./divider.svg" alt="" width="100%"/>
 
@@ -132,9 +133,9 @@ Python · FastAPI · LangGraph · LlamaIndex · ChromaDB · Celery · Redis · N
 
 **Project Links**
 
-[Repository](https://github.com/mrfaizan-dev/Autonomous-RFP-Pipeline) · [YouTube Demo](https://youtu.be/Bz_w748BjSg)
+[Repository](https://github.com/mrfaizan-dev/Autonomous-RFP-Pipeline) · [▶ YouTube Demo](https://youtu.be/Bz_w748BjSg)
 
-<!-- ADD LATER: Public frontend preview URL, if available.
+<!-- Add public frontend preview here when available.
 [Frontend Preview](YOUR_RFP_FRONTEND_URL)
 -->
 
@@ -162,9 +163,9 @@ Python · FastAPI · LlamaIndex · ChromaDB · Gemini · Groq · Cohere · Celer
 
 **Project Links**
 
-[Repository](https://github.com/mrfaizan-dev/Enterprise-RAG-AI)
+[Repository](https://github.com/mrfaizan-dev/Enterprise-RAG-AI) · [▶ YouTube Demo](https://youtu.be/4JPDt6-eMMY)
 
-<!-- ADD LATER: [YouTube Demo](YOUR_ENTERPRISE_RAG_VIDEO_URL)
+<!-- Add public frontend preview here when available.
 [Frontend Preview](YOUR_ENTERPRISE_RAG_FRONTEND_URL)
 -->
 
@@ -193,8 +194,8 @@ Python · FastAPI · LangGraph · Tavily · Playwright · SeleniumBase · Nodriv
 
 [Repository](https://github.com/mrfaizan-dev/CogniPulse-AI-Market-Intelligence)
 
-<!-- ADD LATER: [YouTube Demo](YOUR_COGNIPULSE_VIDEO_URL)
-[Frontend Preview](YOUR_COGNIPULSE_FRONTEND_URL)
+<!-- ADD COGNIPULSE YOUTUBE DEMO URL HERE WHEN AVAILABLE.
+[▶ YouTube Demo](YOUR_COGNIPULSE_VIDEO_URL)
 -->
 
 ---
@@ -223,10 +224,10 @@ Python · FastAPI · Playwright · SeleniumBase · Nodriver · BeautifulSoup4 ·
 
 **Project Links**
 
-[Repository](https://github.com/mrfaizan-dev/Natural-Scraping-AI)
+[Repository](https://github.com/mrfaizan-dev/Natural-Scraping-AI) · [▶ YouTube Demo](https://youtu.be/gGOepTONTek)
 
-<!-- ADD LATER: [YouTube Demo](YOUR_NATURAL_SCRAPING_VIDEO_URL)
-[Frontend Preview](YOUR_NATURAL_SCRAPING_FRONTEND_URL)
+<!-- Add public frontend preview here when available.
+[Frontend Preview](YOUR_SCRAPING_FRONTEND_URL)
 -->
 
 <img src="./divider.svg" alt="" width="100%"/>
@@ -263,7 +264,7 @@ Use tracing and evaluation tools to inspect AI workflow execution and assess out
 
 <img src="./divider.svg" alt="" width="100%"/>
 
-## Working With Me
+## Let's Work Together
 
 I'm interested in opportunities where Python backend engineering and Applied AI can solve practical business problems.
 
@@ -277,11 +278,7 @@ I'm interested in opportunities where Python backend engineering and Applied AI 
 
 I enjoy building systems that combine reliable backend engineering with practical AI capabilities.
 
-## Let's Connect
-
-Have a Python backend, RAG, AI agent, or intelligent automation project?
-
-Feel free to reach out.
+## Contact & Social Profiles
 
 <div align="center">
 
@@ -289,10 +286,15 @@ Feel free to reach out.
 <a href="https://github.com/mrfaizan-dev"><img src="./btn-github.svg" alt="GitHub" height="64"/></a>
 <a href="https://github.com/mrfaizan-dev?tab=repositories"><img src="./btn-repos.svg" alt="All Repositories" height="64"/></a>
 
-<!-- ADD LATER: LinkedIn and portfolio buttons.
-<a href="YOUR_LINKEDIN_URL"><img src="./btn-linkedin.svg" alt="LinkedIn" height="64"/></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="./btn-portfolio.svg" alt="Portfolio" height="64"/></a>
--->
+<br/><br/>
+
+**Connect with me**
+
+[LinkedIn](https://www.linkedin.com/in/muhammad-faizan-746146333/) · [Portfolio](https://mrfaizan-dev.com/) · [WhatsApp](https://wa.me/923084996044)
+
+**Email:** [pakmrfaizan@gmail.com](mailto:pakmrfaizan@gmail.com)
+
+**WhatsApp:** [+92 308 4996044](https://wa.me/923084996044)
 
 <br/><br/>
 
