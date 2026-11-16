@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" width="1600" height="520" role="img" aria-label="Mr Faizan - Python Backend and Applied AI Developer" text-rendering="geometricPrecision">
+<style>
+.sans{font-family:'Inter','Segoe UI Variable Display','Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','Fira Code',Consolas,'SF Mono',Menlo,monospace}
+</style>
+<defs>
+<!-- background: deep navy into a richer indigo-violet -->
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#050810"/>
+<stop offset=".5" stop-color="#0a1126"/>
+<stop offset="1" stop-color="#150c36"/>
+</linearGradient>
+
+<!-- name gradient: cyan -> blue -> soft violet, shimmer never goes flat -->
+<linearGradient id="ng" gradientUnits="userSpaceOnUse" x1="470" y1="0" x2="1130" y2="0" spreadMethod="reflect">
+<stop offset="0" stop-color="#22d3ee"/>
+<stop offset=".5" stop-color="#6d8dff"/>
+<stop offset="1" stop-color="#a78bfa"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="0 0;330 0;0 0" dur="8s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+</linearGradient>
+
+<!-- rotating title gradient -->
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#67e8f9"/>
+<stop offset=".55" stop-color="#a5b4fc"/>
+<stop offset="1" stop-color="#c4b5fd"/>
+</linearGradient>
+
+<!-- accent line comet -->
+<linearGradient id="ag" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+<stop offset=".3" stop-color="#22d3ee"/>
+<stop offset=".7" stop-color="#a78bfa"/>
+<stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+</linearGradient>
+
+<radialGradient id="o1">
+<stop offset="0" stop-color="#22d3ee" stop-opacity=".28"/>
+<stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="o2">
+<stop offset="0" stop-color="#7c3aed" stop-opacity=".42"/>
+<stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="vg" cx=".5" cy=".5" r=".75">
+<stop offset=".55" stop-color="#000" stop-opacity="0"/>
+<stop offset="1" stop-color="#000" stop-opacity=".45"/>
+</radialGradient>
+
+<pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+<path d="M48 0H0V48" fill="none" stroke="#38bdf8" stroke-opacity=".06"/>
+<animateTransform attributeName="patternTransform" type="translate" from="0 0" to="48 48" dur="6s" repeatCount="indefinite"/>
+</pattern>
+
+<!-- soft glow: blurred copy sits BEHIND the crisp text -->
+<filter id="blur" x="-20%" y="-60%" width="140%" height="220%">
+<feGaussianBlur stdDeviation="9"/>
+</filter>
+</defs>
+
+<!-- background layers -->
+<rect width="1600" height="520" fill="url(#bg)"/>
+<circle r="320" fill="url(#o1)">
+<animate attributeName="cx" values="250;550;250" dur="14s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="120;380;120" dur="11s" repeatCount="indefinite"/>
+</circle>
+<circle r="340" fill="url(#o2)">
+<animate attributeName="cx" values="1350;1000;1350" dur="16s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="400;120;400" dur="12s" repeatCount="indefinite"/>
+</circle>
+<rect width="1600" height="520" fill="url(#grid)"/>
+<rect width="1600" height="520" fill="url(#vg)"/>
+
+<!-- network lines -->
+<g fill="none" stroke-width="1.4" stroke-dasharray="6 8">
+<line x1="120" y1="110" x2="260" y2="260" stroke="#38bdf8" stroke-opacity=".3"><animate attributeName="stroke-dashoffset" from="0" to="-56" dur="4s" repeatCount="indefinite"/></line>
+<line x1="260" y1="260" x2="140" y2="440" stroke="#38bdf8" stroke-opacity=".3"><animate attributeName="stroke-dashoffset" from="0" to="-56" dur="4s" repeatCount="indefinite"/></line>
+<line x1="120" y1="110" x2="400" y2="150" stroke="#38bdf8" stroke-opacity=".3"><animate attributeName="stroke-dashoffset" from="0" to="-56" dur="4s" repeatCount="indefinite"/></line>
+<line x1="400" y1="150" x2="330" y2="50" stroke="#38bdf8" stroke-opacity=".3"><animate attributeName="stroke-dashoffset" from="0" to="-56" dur="4s" repeatCount="indefinite"/></line>
+<line x1="330" y1="50" x2="1380" y2="120" stroke="#7f8cf8" stroke-opacity=".25"><animate attributeName="stroke-dashoffset" from="0" to="-56" dur="4s" repeatCount="indefinite"/></line>
+<line x1="1380" y1="120" x2="1500" y2="290" stroke="#8b7cf6" stroke-opacity=".32"><animate attributeName="stroke-dashoffset" from="0" to="-56" dur="4s" repeatCount="indefinite"/></line>
+<line x1="1380" y1="120" x2="1200" y2="190" stroke="#8b7cf6" stroke-opacity=".32"><animate attributeName="stroke-dashoffset" from="0" to="-56" dur="4s" repeatCount="indefinite"/></line>
+<line x1="1200" y1="190" x2="1500" y2="290" stroke="#8b7cf6" stroke-opacity=".32"><animate attributeName="stroke-dashoffset" from="0" to="-56" dur="4s" repeatCount="indefinite"/></line>
+<line x1="1500" y1="290" x2="1470" y2="430" stroke="#8b7cf6" stroke-opacity=".32"><animate attributeName="stroke-dashoffset" from="0" to="-56" dur="4s" repeatCount="indefinite"/></line>
+<line x1="1470" y1="430" x2="1390" y2="492" stroke="#8b7cf6" stroke-opacity=".32"><animate attributeName="stroke-dashoffset" from="0" to="-56" dur="4s" repeatCount="indefinite"/></line>
+</g>
+
+<!-- network nodes -->
+<circle cx="120" cy="110" r="4" fill="#22d3ee"><animate attributeName="r" values="3;6;3" dur="3s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.35;1" dur="3s" begin="0s" repeatCount="indefinite"/></circle>
+<circle cx="260" cy="260" r="4" fill="#22d3ee"><animate attributeName="r" values="3;6;3" dur="4s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.35;1" dur="4s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="140" cy="440" r="4" fill="#22d3ee"><animate attributeName="r" values="3;6;3" dur="5s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.35;1" dur="5s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="400" cy="150" r="4" fill="#22d3ee"><animate attributeName="r" values="3;6;3" dur="3s" begin="0.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.35;1" dur="3s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="330" cy="50" r="4" fill="#22d3ee"><animate attributeName="r" values="3;6;3" dur="5s" begin="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.35;1" dur="5s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="1380" cy="120" r="4" fill="#a78bfa"><animate attributeName="r" values="3;6;3" dur="4s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.35;1" dur="4s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="1500" cy="290" r="4" fill="#a78bfa"><animate attributeName="r" values="3;6;3" dur="5s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.35;1" dur="5s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="1470" cy="430" r="4" fill="#a78bfa"><animate attributeName="r" values="3;6;3" dur="3s" begin="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.35;1" dur="3s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="1200" cy="190" r="4" fill="#a78bfa"><animate attributeName="r" values="3;6;3" dur="4s" begin="2.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.35;1" dur="4s" begin="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="1390" cy="492" r="4" fill="#a78bfa"><animate attributeName="r" values="3;6;3" dur="3s" begin="2.7s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.35;1" dur="3s" begin="2.7s" repeatCount="indefinite"/></circle>
+
+<!-- status pill -->
+<rect x="505" y="38" width="590" height="52" rx="26" fill="#0d1427" fill-opacity=".92" stroke="#22d3ee" stroke-opacity=".45" stroke-width="1.2"/>
+<circle cx="540" cy="64" r="5" fill="#22c55e" fill-opacity=".6">
+<animate attributeName="r" values="5;15" dur="2s" repeatCount="indefinite"/>
+<animate attributeName="fill-opacity" values=".6;0" dur="2s" repeatCount="indefinite"/>
+</circle>
+<circle cx="540" cy="64" r="5" fill="#22c55e"/>
+<text class="mono" x="815" y="72" text-anchor="middle" font-size="24" fill="#d5deec">Open to Backend &amp; Applied AI roles</text>
+
+<!-- name: soft glow copy + crisp text on top -->
+<text class="sans" x="800" y="232" text-anchor="middle" font-size="120" font-weight="800" letter-spacing="-1.5" fill="url(#ng)" filter="url(#blur)" opacity=".4">Mr Faizan</text>
+<text class="sans" x="800" y="232" text-anchor="middle" font-size="120" font-weight="800" letter-spacing="-1.5" fill="url(#ng)">Mr Faizan</text>
+
+<!-- rotating titles: smooth cross-fade + slight slide, 3s each, 15s loop -->
+<g opacity="1">
+<animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0;0.03;0.17;0.2;1" values="0;1;1;0;0"/>
+<animateTransform attributeName="transform" type="translate" dur="15s" repeatCount="indefinite" keyTimes="0;0.03;0.17;0.2;1" values="0 14;0 0;0 0;0 -14;0 -14"/>
+<text class="sans" x="800" y="322" text-anchor="middle" font-size="52" font-weight="600" fill="url(#tg)">Python Backend Engineer</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0;0.2;0.23;0.37;0.4;1" values="0;0;1;1;0;0"/>
+<animateTransform attributeName="transform" type="translate" dur="15s" repeatCount="indefinite" keyTimes="0;0.2;0.23;0.37;0.4;1" values="0 14;0 14;0 0;0 0;0 -14;0 -14"/>
+<text class="sans" x="800" y="322" text-anchor="middle" font-size="52" font-weight="600" fill="url(#tg)">Applied AI Developer</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0;0.4;0.43;0.57;0.6;1" values="0;0;1;1;0;0"/>
+<animateTransform attributeName="transform" type="translate" dur="15s" repeatCount="indefinite" keyTimes="0;0.4;0.43;0.57;0.6;1" values="0 14;0 14;0 0;0 0;0 -14;0 -14"/>
+<text class="sans" x="800" y="322" text-anchor="middle" font-size="52" font-weight="600" fill="url(#tg)">Agentic AI &amp; LangGraph Builder</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0;0.6;0.63;0.77;0.8;1" values="0;0;1;1;0;0"/>
+<animateTransform attributeName="transform" type="translate" dur="15s" repeatCount="indefinite" keyTimes="0;0.6;0.63;0.77;0.8;1" values="0 14;0 14;0 0;0 0;0 -14;0 -14"/>
+<text class="sans" x="800" y="322" text-anchor="middle" font-size="52" font-weight="600" fill="url(#tg)">RAG &amp; Document Intelligence</text>
+</g>
+<g opacity="0">
+<animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0;0.8;0.83;0.97;1" values="0;0;1;1;0"/>
+<animateTransform attributeName="transform" type="translate" dur="15s" repeatCount="indefinite" keyTimes="0;0.8;0.83;0.97;1" values="0 14;0 14;0 0;0 0;0 -14"/>
+<text class="sans" x="800" y="322" text-anchor="middle" font-size="52" font-weight="600" fill="url(#tg)">Intelligent Web Automation</text>
+</g>
+
+<!-- accent line: faint track + moving comet (rect, so the gradient always renders) -->
+<rect x="560" y="364" width="480" height="3" rx="1.5" fill="#94a3b8" fill-opacity=".18"/>
+<rect x="560" y="363" width="140" height="5" rx="2.5" fill="url(#ag)">
+<animate attributeName="x" values="560;900;560" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+</rect>
+
+<!-- descriptor + tagline -->
+<text class="sans" x="800" y="420" text-anchor="middle" font-size="28" font-weight="500" fill="#aab7cc">LLMs · Agent workflows · Retrieval pipelines · Browser automation · Python services</text>
+<text class="mono" x="800" y="466" text-anchor="middle" font-size="24" fill="#7f8da8">Turning unstructured web &amp; document data into validated, useful output</text>
+</svg>
