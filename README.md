@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="./header.svg" alt="Muhammad Faizan — Python Backend and Applied AI Developer" width="100%"/>
+<img src="./banner.svg" alt="Muhammad Faizan — Python Backend and Applied AI Developer" width="100%"/>
 
 <br/>
 
