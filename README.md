@@ -20,7 +20,7 @@ Pakistan · Available for International Collaboration
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/muhammad-faizan-746146333/">
+<a href="https://www.linkedin.com/in/mrfaizan-dev/">
   <img src="./btn-linkedin.svg" alt="LinkedIn" height="64"/>
 </a>
 
@@ -306,7 +306,7 @@ I enjoy building systems that combine reliable backend engineering with practica
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/muhammad-faizan-746146333/">
+<a href="https://www.linkedin.com/in/mrfaizan-dev/">
   <img src="./btn-linkedin.svg" alt="LinkedIn" height="64"/>
 </a>
 
