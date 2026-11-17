@@ -284,7 +284,7 @@ I'm interested in opportunities where Python backend engineering and Applied AI 
 
 **Open to:**
 
-- Junior / Associate Python Backend Developer roles.
+- Python Backend Developer roles.
 - Applied AI / GenAI Developer opportunities.
 - AI Agent and RAG Engineering work.
 - Python Web Scraping and Automation projects.
