@@ -24,7 +24,7 @@ Pakistan · Available for International Collaboration
   <img src="./btn-linkedin.svg" alt="LinkedIn" height="64"/>
 </a>
 
-<a href="https://mrfaizan-dev.com/">
+<a href="https://mrfaizan-dev.vercel.app/">
   <img src="./btn-portfolio.svg" alt="Portfolio" height="64"/>
 </a>
 
@@ -310,7 +310,7 @@ I enjoy building systems that combine reliable backend engineering with practica
   <img src="./btn-linkedin.svg" alt="LinkedIn" height="64"/>
 </a>
 
-<a href="https://mrfaizan-dev.com/">
+<a href="https://mrfaizan-dev.vercel.app/">
   <img src="./btn-portfolio.svg" alt="Portfolio" height="64"/>
 </a>
 
