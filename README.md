@@ -12,7 +12,7 @@
 
 **Python Backend & Applied AI Developer**
 
-Associate / Mid-Level Roles · Remote Opportunities · Freelance Projects
+· Remote Opportunities · Freelance Projects
 
 Pakistan · Available for International Collaboration
 
